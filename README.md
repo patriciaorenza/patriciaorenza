@@ -1,4 +1,3 @@
-[Uploading README (2).md…]()
 # Hi, I'm Patricia 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-orenza/)

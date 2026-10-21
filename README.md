@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-orenza/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B4332?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patriciaorenza.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patorenza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patorenza.work@gmail.com)
 
 Aspiring Business Analyst sitting at the intersection of business and technology. I'm passionate about working with data and turning it into actionable insights that support smarter decisions. I ask the questions that uncover what's really driving a problem, then work to translate those insights into process improvements and solutions that help businesses achieve their goals.
 
